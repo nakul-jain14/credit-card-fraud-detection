@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled files
+*.class
+*.jar
+
+# OS generated files
+.DS_Store
+Thumbs.db
